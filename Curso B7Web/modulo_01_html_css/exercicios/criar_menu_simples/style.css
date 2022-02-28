@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+    }
+    div{
+    background: #0000FF;
+    padding: 10px;
+    }
+    a{
+    padding: 10px;
+    color: #FFFFFF;
+    }
+    a:hover{
+    background-color: #FFFFFF;
+    color: #0000FF;
+    }
+    

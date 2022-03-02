@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+.menu {
+    background-color: #180A29;
+    margin: 0;
+    padding: 0;
+}
+.menu a {
+    color: #ffffff;
+    display: block;
+    padding: 10px;
+}
+.menu a:hover {
+    background-color: #ffffff;
+    color: #180A29;
+}
+.menu li {
+    list-style: none;
+    display: inline-block;
+}

@@ -89,6 +89,34 @@ body{
     border-radius: 5px;
 }
 
+.conteudointerno {
+    width: 1000px;
+    margin: auto;
+}
+
+.outrosprodutos {
+    height: 90px;
+    font-size: 20px;
+    text-align: center;
+    line-height: 90px;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.fotos img {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.rodape {
+    background-color: #347aba;
+    color: #F5F2F5;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    margin-top: 40px;
+}
+
 
 
 

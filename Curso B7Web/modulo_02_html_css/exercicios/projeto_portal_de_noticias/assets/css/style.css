@@ -24,8 +24,10 @@ body {
 
 .toporigth {
     width: 50%;
-    height: 30px;
+    height: 28px;
     float: right;
+    text-align: right;
+    margin-top: 2px;
 }
 
 .topoleft ul {
@@ -49,4 +51,18 @@ body {
 
 .topoleft li a .ativo {
     color: blue;
+}
+
+.topobusca {
+    width: 110px;
+    height: 21px;
+    outline: 0px;
+}
+
+.toporight a {
+    float: right;
+}
+
+.toporigth input {
+    float: right;
 }

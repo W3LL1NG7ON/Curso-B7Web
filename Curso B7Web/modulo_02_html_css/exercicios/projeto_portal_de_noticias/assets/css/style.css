@@ -66,3 +66,7 @@ body {
 .toporigth input {
     float: right;
 }
+
+.toporight img {
+    margin-right: 4px;
+}

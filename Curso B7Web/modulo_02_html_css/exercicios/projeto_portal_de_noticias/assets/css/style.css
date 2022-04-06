@@ -73,7 +73,7 @@ body {
 
 .topo2 {
     height: 95px;
-    background-color: #fff;
+    background-color: #F7F7F7;
 }
 
 .topo2int {
@@ -96,4 +96,37 @@ body {
     float: right;
     margin-top: 7px;
     background-color: #FE0000;
+}
+
+.menu {
+    height: 40px;
+    background-color: #FE0000;
+
+}
+
+.menuint {
+    width: 100%;
+    max-width: 1040px;
+    height: 40px;
+    margin:auto;
+}
+
+.menu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.menu li {
+    float: left;
+    height: 40px;
+    line-height: 40px;
+    padding-left: 8px;
+    padding-right: 8px;
+    
+}
+
+.menu a {
+    color: #F7F7F7;
+    text-decoration: none;
 }

@@ -154,3 +154,42 @@ body {
 .submenuitem:hover {
     background-color: #b15d50;
 }
+
+.ultimasnoticias {
+    height: 50px;
+}
+
+.ultimasnoticiasint {
+    width: 100%;
+    height: 50px;
+    max-width: 1040px;
+    margin: auto;
+
+}
+
+.ultimasnoticiasarea {
+    height: 28px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+}
+
+.ultimasnoticiastitulo {
+    background-color: #FE0000;
+    color: #fff;
+    height: 28px;
+    line-height: 28px;
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 16px;
+}
+
+.ultimasnoticiasurgentes {
+    color: #000;
+    height: 28px;
+    line-height: 28px;
+    display:inline-block;
+    padding-left: 5px;
+}
+

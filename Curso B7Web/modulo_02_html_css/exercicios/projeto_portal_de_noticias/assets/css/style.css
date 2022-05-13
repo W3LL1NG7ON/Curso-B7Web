@@ -264,6 +264,26 @@ body {
     background-size: cover;
 }
 
+.slideinfo {
+    height: 70px;
+    background-image: url('../images/slideshow_bg.png');
+    background-size: auto 70px;
+    margin-top: 265px;   
+}
+
+.slidetitulo {
+    font-size: 20px;
+    color: #fff;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+.slidesubtitulo {
+    font-size: 13px;
+    color: #ccc;
+    padding-left: 20px;
+}
+
 
 
 
